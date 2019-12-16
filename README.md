@@ -1,6 +1,6 @@
 # columns-game-recreation
 
-This was a project which focused on utilizng Python and the third party library Pygame to recreate a game known as "Columns". 
+This was a project which focused on utilizing Python and the third party library Pygame to recreate a game known as "Columns". 
 The game is quite similar to Tetris, as sets of falling Jewels of varying colors need to be rearranged to create matches of 
 three or more same-colored Jewels and keep the game board as empty as possible. Once the board becomes overfilled, the game 
 ends.
