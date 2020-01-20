@@ -21,9 +21,3 @@ Visual Indicators:
 2) Landed Jewels: When jewels land on top of other jewels or on the bottom of the game board, a green background can be seen behind the jewels. Jewels can still be moved and rotated in this state.
 3) Frozen Jewels: When jewels become frozen, they will be enlarged to fit the entire cell and will have no visible background color behind them. Once jewels are frozen, a new set of falling jewels will be created and dropped from the top of the game board.
 4) Matches: When matches are created, jewels will shrink into small circles before disappearing.
-
-The full project was split into two assignments from a course at the University of California, Irvine called ICS32A or Python Programming with Libraries. These two assignments received full scores of 30/30, and the full project specifications can be found at the following two links:
-
-Project Part 1: https://www.ics.uci.edu/~thornton/ics32a/ProjectGuide/Project4/
-
-Project Part 2: https://www.ics.uci.edu/~thornton/ics32a/ProjectGuide/Project5/
