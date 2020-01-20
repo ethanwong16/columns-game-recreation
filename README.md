@@ -5,7 +5,7 @@ The game is quite similar to Tetris, as sets of falling Jewels of varying colors
 three or more same-colored Jewels and keep the game board as empty as possible. Once the board becomes overfilled, the game 
 ends.
 
-To run the game, please download the user interface and game mechanics modules into the same directory, and run the user interface script.
+To run the game, please download the user interface and game mechanics modules into the same directory, and run the user interface script under a directory, virtual environment, or equivalent with the third PyGame library installed. More about PyGame can be found at: https://www.pygame.org/news
 
 Game Instructions / Controls:
 
