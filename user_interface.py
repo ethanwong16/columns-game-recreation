@@ -1,6 +1,3 @@
-#10525263 Ethan Wong
-#project5.py
-
 '''
 This script implements the "view" for the
 Columns Game.
