@@ -1,6 +1,3 @@
-#10525263 Ethan Wong
-#columns.py
-
 '''
 This module implements the "model" of the 
 Columns game.
